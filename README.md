@@ -12,13 +12,10 @@ Where do we start? It always feels like a generic yet challenging question to an
 I am deeply passionate about both the low-level and front-end aspects of software development. Coming from an industry background with a user-centric perspective, I thrive on pushing the boundaries of what’s possible with code while delivering sleek and intuitive user interfaces—all without compromising CPU and GPU efficiency.
 
 From our discussions and the experiences I’ve gathered, I sincerely hope to join this team of passionate creators and contribute to The Foundry’s mission.
-Using Shaders for 2D animations 
- 
 
 
 
-
-# More:
+# More projects:
 
 In the world of multimedia programming, you can expect a lot of areas of learning. Since 2016, I am sharing my knowledges and experiences both in writting formats and video streams.
 ## Ray Marching in Blink Script
