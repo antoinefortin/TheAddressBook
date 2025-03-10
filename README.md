@@ -1,17 +1,17 @@
 # How to build.
     git clone .
     cd AddressBookProject 
-    g++ -std=c++17 -o FoundryAddressBook main.cpp Contact.cpp AddressBook.cpp Menu.cpp
+    g++ -std=c++17 -o AddressBook main.cpp Contact.cpp AddressBook.cpp Menu.cpp
    
    
 
-# Hello Foundry, I am Antoine!
+# Hello, I am Antoine!
 
 Where do we start? It always feels like a generic yet challenging question to answer. Back in 2013, I studied Nuke in a compositing class during my time in college. There’s something truly unique about how one approaches creativity, and after many years of experience from the user’s perspective, I have yet to achieve what The Foundry has built.
 
 I am deeply passionate about both the low-level and front-end aspects of software development. Coming from an industry background with a user-centric perspective, I thrive on pushing the boundaries of what’s possible with code while delivering sleek and intuitive user interfaces—all without compromising CPU and GPU efficiency.
 
-From our discussions and the experiences I’ve gathered, I sincerely hope to join this team of passionate creators and contribute to The Foundry’s mission.
+From our discussions and the experiences I’ve gathered, I sincerely hope to join this team of passionate creators and contribute to the mission.
 
 
 
